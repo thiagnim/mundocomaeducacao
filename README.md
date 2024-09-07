@@ -1,4 +1,4 @@
-## Mundo da Educação: Seu guia personalizado de estudos! 
+## Mundo da Educação: Seu guia personalizado de estudos! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
